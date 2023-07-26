@@ -1,2 +1,2 @@
 # ddos-bot-easy
-Easy DDOS Bot
+It's a simple DDoS bot. It can be used to disable simple sites.
